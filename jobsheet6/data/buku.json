@@ -1,0 +1,12 @@
+[
+    { "isbn": "978-602-03-2478-4","judul": "Hujan", "pengarang": "Tere Liye", "tahun": 2016, "stok": 4, "kategori": "Fiksi"},
+    { "isbn": "978-602-05-3132-8","judul": "Seporsi Mie Ayam Sebelum Mati", "pengarang": " Brian Khrisna", "tahun": 2025, "stok": 2, "kategori": "Fiksi"},
+    { "isbn": "978-602-05-3132-8", "judul": "Laut Bercerita", "pengarang": "Leila S. Chudori", "tahun": 2007, "stok": 1, "kategori": "Fiksi"},
+    { "isbn": "978-602-412-518-9", "judul": "Filosofi Teras", "pengarang": "Henry Manampiring", "tahun": 2018, "stok": 5, "kategori":"Non-Fiksi"},
+    { "isbn": "978-602-06-3317-6", "judul": "Atomic Habits", "pengarang": "James Clear", "tahun": 2018, "stok": 1, "kategori": "Non-Fiksi"},
+    { "isbn": "978-602-220-490-9", "judul": "Malioboro at Midnight", "pengarang": "Skysphire", "tahun": 2023, "stok": 3, "kategori": "Fiksi"},
+    { "isbn": "978-602-0822-12-9", "judul": "Pulang", "pengarang": "Tere Liye", "tahun": 2015, "stok": 2, "kategori": "Fiksi"},
+    { "isbn": "978-602-7870-41-3", "judul": "Dilan: Dia adalah Dilanku Tahun 1990", "pengarang": "Pidi Baiq", "tahun": 2014, "stok": 6, "kategori": "Fiksi"},
+    { "isbn": "978-979-1227-78-0", "judul": "Perahu Kertas", "pengarang": "Dee Lestari", "tahun": 2009, "stok": 0, "kategori": "Fiksi"},
+    { "isbn": "978-979-1227-78-0", "judul": "Hello", "pengarang": "Tere Liye", "tahun": 2023, "stok": 4, "kategori": "Fiksi"}
+]
